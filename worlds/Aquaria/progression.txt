@@ -1,10 +1,10 @@
 Anemone: filler
 Arnassi statue: unknown
 Big seed: filler
-Glowing seed: unknown
+Glowing seed: filler
 Black pearl: filler
 Baby blaster: useful
-Crab armor: unknown
+Crab armor: filler
 Baby dumbo: unknown
 Tooth: filler
 Energy statue: unknown
@@ -16,7 +16,7 @@ Jelly costume: unknown
 Jelly plant: unknown
 Mithalas doll: unknown
 Mithalan dress: filler
-Mithalas banner: unknown
+Mithalas banner: filler
 Mithalas pot: unknown
 Mutant costume: filler
 Baby nautilus: unknown
@@ -31,7 +31,7 @@ Girl costume: filler
 Odd container: unknown
 Trident: filler
 Turtle egg: unknown
-Jelly egg: unknown
+Jelly egg: filler
 Urchin costume: useful
 Baby walker: unknown
 Vedha's Cure-All-All: useful
@@ -117,6 +117,7 @@ Li and Li song: progression
 Shield song: useful
 Beast form: progression
 Sun form: progression
+Sun Form: progression
 Nature form: progression
 Energy form: progression
 Bind song: progression
@@ -130,7 +131,7 @@ Transturtle Forest bottom left: progression
 Transturtle Home water: unknown
 Transturtle Abyss right: progression
 Transturtle Final Boss: progression
-Transturtle Simon says: unknown
+Transturtle Simon says: progression
 Transturtle Arnassi ruins: unknown
 Arnassi Statue: filler
 Big Seed: filler
@@ -152,7 +153,7 @@ Mithalas Banner: filler
 Mithalas Pot: filler
 Mutant Costume: filler
 Baby Nautilus: useful
-Baby Piranha: useful
+Baby Piranha: progression
 Seed Bag: filler
 Song Plant Spore: filler
 Stone Head: filler
@@ -168,8 +169,8 @@ Transturtle Simon Says: progression
 Transturtle Arnassi Ruins: progression
 Rainbow Soup: filler
 Arcane Poultice: useful
-Special Bulb: filler
-Spirit Form: useful
+Special Bulb: useful
+Spirit Form: progression
 Special Cake: filler
 Swamp Cake: filler
 Cold Borscht: filler
@@ -178,3 +179,13 @@ Spicy Roll: useful
 Healing Poultice: filler
 Hot Soup: progression
 Small Bone x 3: filler
+Door to the Cathedral opened: progression
+Progressive Soup: progression
+Progressive Poultice: useful
+Progressive Roll: useful
+Progressive Cake: useful
+Progressive Loaf: useful
+Progressive Perogi: useful
+Progressive Ice Cream: useful
+Rainbow Trap: trap
+Mute Trap: trap
